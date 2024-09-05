@@ -1,5 +1,8 @@
 # Hackers-Guide
 
+![pikaso_texttoimage_Hacker-showing-its-hackers-guide-in-a-darkroom-wit](https://github.com/user-attachments/assets/26c7a5d1-ca96-4037-8343-13f85b265c53)
+
+
 ### **Wordlists**
 
 http://www.phenoelit.org/dpl/dpl.html
